@@ -1,9 +1,9 @@
 # Phonepe-Pulse-Data-Visualisation-and-exploration
 
-Problem Statement:
+# Problem Statement:
 The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
 
-Approach:
+# Approach:
 1.Data extraction: Clone the Github using scripting to fetch the data from the Phonepe pulse Github repository and store it in a suitable 
                    format such as CSV or JSON.
 2.Data transformation: Use a scripting language such as Python, along with libraries such as Pandas, to manipulate and pre-process the 
@@ -18,7 +18,9 @@ Approach:
                   Use the data in the dataframe to update the dashboard dynamically.
 6.Deployment: Ensure the solution is secure, efficient, and user-friendly. Test the solution thoroughly and deploy the dashboard 
               publicly, making it accessible to users.
-Learning outcomes of this project:
+
+              
+# Learning outcomes of this project:
 1.Data extraction and processing: Learning how to use Clone Github to extract data from a repository and pre-process the data using 
                                   Python libraries such as Pandas.
 2.Database management: Use a relational database such as MySQL to store data and retrieve it efficiently for analysis and visualization.
