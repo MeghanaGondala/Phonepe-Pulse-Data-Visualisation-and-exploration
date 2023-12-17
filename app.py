@@ -19,7 +19,7 @@ st.sidebar.header(":violet[**Welcome to the dashboard!**]")
 
 mydb =mysql.connector.connect(host="localhost",
                    user="root",
-                   password="@Meghana15",
+                   password="*******",
                    database="phonepe",
                   )
 mycursor = mydb.cursor(buffered=True)
